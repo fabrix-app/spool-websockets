@@ -1,0 +1,1 @@
+export { websocketsConfig } from './websocketsConfig'
